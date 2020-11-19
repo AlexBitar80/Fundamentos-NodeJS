@@ -20,7 +20,7 @@
 
 O projeto está utilizando as seguintes tecnologias:
 
--  [TypesScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+-  [TypesScript](https://www.typescriptlang.org/)
 -  [Nodemon](https://www.npmjs.com/package/nodemon)
 -  [Node.js](https://nodejs.org/en/)
 -  [Jest](https://jestjs.io/)
